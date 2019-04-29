@@ -6,5 +6,5 @@ using System.Collections.Generic;
 [Serializable]
 public class PillsList
 {
-    public List<PillData> Pillule;
+    public List<PillData> Pills;
 }

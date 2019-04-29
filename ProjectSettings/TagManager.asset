@@ -3,7 +3,24 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - WeekText
+  - EffectList
+  - PillName
+  - Pill
+  - PillDescription
+  - MainCanvas
+  - Brain
+  - Heart
+  - Intestine
+  - Pulmon
+  - Muscle
+  - MoneyValue
+  - Pills
+  - HospitalController
+  - MoneyPanel
+  - EffectPanel
+  - DoctorStatement
   layers:
   - Default
   - TransparentFX
@@ -13,7 +30,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - PostProcess
   - 
   - 
   - 

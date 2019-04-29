@@ -7,9 +7,9 @@ using UnityEngine;
 public class PillData
 {
     public string name;
-    public string DisplayName;
-
-    public string description;
+    public string displayName;
+    public string brand;
+    public int cost;
 
     public int brain;
     public int heart;
@@ -17,15 +17,52 @@ public class PillData
     public int muscles;
     public int intestine;
 
-    public string unlock;
+    public string description;
+    public int level;
+    public string stateName;
+    public string type;
+    public int baseValue;
 
+    public BodyData bodyEffect;
+    public int image;
+    
+
+    public List<string> requirements;
     public string[] secondaryEffectID;
+
+    public List<EffectData> secondaryEffect;
+    public bool alreadyTaken;
+
+
+    public void Build()
+    {
+        alreadyTaken = false;
+        bodyEffect = new BodyData(brain, heart, pulmon, muscles, intestine);
+        secondaryEffect = new List<EffectData>();
+        secondaryEffect = GameContext.effects.Effects.FindAll(s => Array.Exists(secondaryEffectID, r => r == s.name));
+    }
 
     public override string ToString()
     {
-        return "name = " + name
-            + "Display Name = " + DisplayName
-            + "description = " + description
-            + "secondaryEffect" + secondaryEffectID.ToString() ;
+        return "Pill " + name
+            + ";display=" + displayName
+            + ";description=" + description
+            + "; image" + image
+            + ";stats=(" + brain + "," + heart + "," + pulmon + "," + muscles + "," + intestine + ")";
+    }
+
+    public PillData()
+    {
+
+    }
+    public PillData(int brain, int heart, int pulmon, int muscles, int intestines, int level)
+    {
+        this.brain = brain;
+        this.heart = heart;
+        this.pulmon = pulmon;
+        this.muscles = muscles;
+        this.intestine = intestines;
+        this.level = level;
     }
 }
+

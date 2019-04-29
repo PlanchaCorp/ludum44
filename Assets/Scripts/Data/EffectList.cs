@@ -6,5 +6,5 @@ using System;
 [Serializable]
 public class EffectList
 {
-    public List<EffectData> effects;
+    public List<EffectData> Effects;
 }
