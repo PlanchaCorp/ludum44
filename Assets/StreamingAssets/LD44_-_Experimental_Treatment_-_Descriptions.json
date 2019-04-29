@@ -1,0 +1,436 @@
+{
+  "Descriptions": [
+    {
+      "id": 0,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Homeopathy: An anwser to many things, but not the right one."
+    },
+    {
+      "id": 1,
+      "brain": -1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "LinkedOut: Everything is plain and blank and you want to offer shitty jobs to your aquaintances."
+    },
+    {
+      "id": 2,
+      "brain": 1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Dolicetamol: Might cure fever. Might."
+    },
+    {
+      "id": 3,
+      "brain": -1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Dolicetamal: Cause fever."
+    },
+    {
+      "id": 4,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 1,
+      "intestine": 0,
+      "description": "Steroïds: A heartbreaking breakthrough in sport's world"
+    },
+    {
+      "id": 5,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 1,
+      "intestine": 0,
+      "description": "Barathenol: Strengthen your muscle, but you might feel drunk for a bit."
+    },
+    {
+      "id": 6,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": -1,
+      "intestine": 0,
+      "description": "Rednex: You suddenly feel a urge to swear."
+    },
+    {
+      "id": 7,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": -1,
+      "description": "Salty: Acids, without the trip."
+    },
+    {
+      "id": 8,
+      "brain": 0,
+      "heart": 1,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Canabinoïds: See the world in pink. Your heart feel warmer."
+    },
+    {
+      "id": 9,
+      "brain": 1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Backenitriol: Your brain knows more about the world. Especially its bitterness."
+    },
+    {
+      "id": 10,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": -1,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Morning breath: You really should not blow with this thing."
+    },
+    {
+      "id": 11,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 1,
+      "description": "Android: An apple a day keeps doctor away. Not this one particularly."
+    },
+    {
+      "id": 12,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 1,
+      "intestine": 0,
+      "description": "Head Bang: Good for your back and neck muscle. Badly increases blood pressure in the brain."
+    },
+    {
+      "id": 13,
+      "brain": -1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Peregrin Tookit: You feel as kind and light-hearted as a hobbit. Too bad it's Pippin."
+    },
+    {
+      "id": 14,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 1,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Meditation medication: Breathe in, breathe out. You can't eat meat anymore though."
+    },
+    {
+      "id": 15,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 1,
+      "intestine": 0,
+      "description": "Cross Feet: You will walk on water. Caution, might change it into wine."
+    },
+    {
+      "id": 16,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 1,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Central Perk: Some fresh air from a central park morning jog. New, central park drugs now included."
+    },
+    {
+      "id": 17,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": -1,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Athmatix: You are now better at not breathing."
+    },
+    {
+      "id": 18,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 1,
+      "description": "Saturnine: Makes you start thinking about the world and accepting how small you are in it. Develope your intestinal fauna."
+    },
+    {
+      "id": 19,
+      "brain": 1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Sleepingbeautic: A good 24h nap."
+    },
+    {
+      "id": 20,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": -1,
+      "description": "Your-X: The same effect as learning you've been cheated on. Now with improved relief due to the termination of a shitty relationship."
+    },
+    {
+      "id": 21,
+      "brain": 1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Clear Weather: No more dark thoughts, no more headache"
+    },
+    {
+      "id": 22,
+      "brain": -1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Prank Heinstein: It's funny but not super clever."
+    },
+    {
+      "id": 23,
+      "brain": 0,
+      "heart": -1,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Britanny: We concentrated a lot of butter in this tiny pill."
+    },
+    {
+      "id": 24,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": -1,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Snailax: Leafs are now extra good for your health. The cost? Mucus."
+    },
+    {
+      "id": 25,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 1,
+      "description": "Merry Pops In: Just a spoonfull of sugars makes the medecine goes down."
+    },
+    {
+      "id": 26,
+      "brain": 0,
+      "heart": -1,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Elfant Tusk: Takes this to Mars for me would you?"
+    },
+    {
+      "id": 27,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": -1,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Berti Botts: Why is there smoke escaping the pill ?"
+    },
+    {
+      "id": 28,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 1,
+      "intestine": 0,
+      "description": "Marathonium: Run boy run, this world is not made for you"
+    },
+    {
+      "id": 29,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": -1,
+      "description": "Gandhill: The curry nukes your intestine, but peacefully."
+    },
+    {
+      "id": 30,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": -1,
+      "description": "Gasoline: Three, two, one, run. Now. Toilets are on the left."
+    },
+    {
+      "id": 31,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 1,
+      "intestine": 0,
+      "description": "Konrad Lorenz: Strengthen most of your muscle, but ducks are now attracted to you."
+    },
+    {
+      "id": 32,
+      "brain": 0,
+      "heart": -1,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Old Lace Arsenic: Weird placebo effect with unknown origin. Come on, we are no scientist! Oh wait."
+    },
+    {
+      "id": 33,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": -1,
+      "intestine": 0,
+      "description": "Bubon: Congrats, you now have the bubonic plague. Half of Europe made it through, why not you?"
+    },
+    {
+      "id": 34,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": -1,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Elzanol: Have you tried breathing snow?"
+    },
+    {
+      "id": 35,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 1,
+      "description": "Von Drekenov: Makes your blood pressure not great, and your are weak. But, because you love chicori and ham, you will be quite fine."
+    },
+    {
+      "id": 36,
+      "brain": 0,
+      "heart": 1,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Darth Father: No breath, no limp, no stomack. But, in the end, your heart is nice and you will be forgiven."
+    },
+    {
+      "id": 37,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": -1,
+      "intestine": 0,
+      "description": "Rotten 4: It's not good but it works. Kind of."
+    },
+    {
+      "id": 38,
+      "brain": -1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Sorokdva: The answer to many things, but in a language unknown to intelligent life forms."
+    },
+    {
+      "id": 39,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": -1,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Dumpstomania: From dump it came, to dump it will return."
+    },
+    {
+      "id": 40,
+      "brain": 1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Chemistry: Feels like Mathematics to you."
+    },
+    {
+      "id": 41,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 1,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Makes you breathe as fast as a potatoe. And they breath surprisingly fast!"
+    },
+    {
+      "id": 42,
+      "brain": -1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Alcoethanol: Simulate a brain after the ludum dare."
+    },
+    {
+      "id": 43,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": -1,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Margytyrel: This pills will leave you breathless."
+    },
+    {
+      "id": 44,
+      "brain": 0,
+      "heart": 1,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Luv: Quite good for your heart. Really."
+    },
+    {
+      "id": 45,
+      "brain": 0,
+      "heart": -1,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Love: Your stress and your heartbeat fasten."
+    },
+    {
+      "id": 46,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": -1,
+      "intestine": 0,
+      "description": "Smurf: You muscles become smaller. Much smaller."
+    },
+    {
+      "id": 47,
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": -1,
+      "intestine": 0,
+      "description": "Superbrawl: Decrease your muscular mass."
+    }
+  ]
+}

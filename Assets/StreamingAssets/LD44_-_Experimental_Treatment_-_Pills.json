@@ -1,0 +1,687 @@
+{
+  "Pills": [
+    {
+      "name": "homeopathy",
+      "displayName": "Homeopathy",
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "An anwser to many things, but not the right one.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Sanitad",
+      "image": 1,
+      "cost": 152
+    },
+    {
+      "name": "linkedout",
+      "displayName": "LinkedOut",
+      "brain": 0,
+      "heart": 1,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Everything is plain and blank and you want to offer shitty jobs to your aquaintances.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Sanitad",
+      "image": 2,
+      "cost": 212
+    },
+    {
+      "name": "dolicetamol",
+      "displayName": "Dolicetamol",
+      "brain": 1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Might cure fever. Might.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Cheap Pills",
+      "image": 3,
+      "cost": 182
+    },
+    {
+      "name": "dolicetamal",
+      "displayName": "Dolicetamal",
+      "brain": -1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Cause fever.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Cheap Pills",
+      "image": 4,
+      "cost": 182
+    },
+    {
+      "name": "dogSalt",
+      "displayName": "Dog salt",
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": -1,
+      "description": "Litteraly no surprise here.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Daily Life",
+      "image": 5,
+      "cost": 167
+    },
+    {
+      "name": "robertBarathenol",
+      "displayName": "Robert Barathenol",
+      "brain": -1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 1,
+      "intestine": 0,
+      "description": "Strengthen your muscle, but you might feel drunk for a bit.",
+      "secondaryEffectID": [
+        "severeHallucination"
+      ],
+      "requirements": [
+        "drFoetus"
+      ],
+      "brand": "Pop Culture",
+      "image": 6,
+      "cost": 334
+    },
+    {
+      "name": "clearWeather",
+      "displayName": "Clear Weather",
+      "brain": 2,
+      "heart": 0,
+      "pulmon": 3,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "No more dark thoughts, no more headache",
+      "secondaryEffectID": [
+        "brainPrevention",
+        "lungsProtection"
+      ],
+      "requirements": [],
+      "brand": "Sanitad",
+      "image": 7,
+      "cost": 957
+    },
+    {
+      "name": "drFoetus",
+      "displayName": "Dr Foetus",
+      "brain": 0,
+      "heart": 1,
+      "pulmon": -1,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "A bit gooey, good for your heart, fills your pulmon with despair.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Pharmafya",
+      "image": 8,
+      "cost": 410
+    },
+    {
+      "name": "morningBreath",
+      "displayName": "Morning Breath",
+      "brain": 0,
+      "heart": 0,
+      "pulmon": -1,
+      "muscles": 0,
+      "intestine": -1,
+      "description": "Acids, without the trip.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Bawer",
+      "image": 9,
+      "cost": 364
+    },
+    {
+      "name": "backenovidol",
+      "displayName": "Backenovidol",
+      "brain": 2,
+      "heart": -1,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "Your brain knows more about the world. Especially its bitterness.",
+      "secondaryEffectID": [
+        "brainPrevention"
+      ],
+      "requirements": [],
+      "brand": "Cheap Pills",
+      "image": 10,
+      "cost": 577
+    },
+    {
+      "name": "rainbow",
+      "displayName": "Rainbow",
+      "brain": 3,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 2,
+      "description": "Makes you enjoy some of the beatles music",
+      "secondaryEffectID": [
+        "brainProtection",
+        "severeHallucination"
+      ],
+      "requirements": [],
+      "brand": "Sanitad",
+      "image": 11,
+      "cost": 881
+    },
+    {
+      "name": "justDoIt",
+      "displayName": "Just Do It",
+      "brain": 0,
+      "heart": -3,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "No, don't.",
+      "secondaryEffectID": [
+        "cardiacDiscomfort"
+      ],
+      "requirements": [],
+      "brand": "Pharmafya",
+      "image": 12,
+      "cost": 638
+    },
+    {
+      "name": "android",
+      "displayName": "Android",
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": -1,
+      "intestine": 3,
+      "description": "One apple a day keeps doctor away. Not this one particularly.",
+      "secondaryEffectID": [
+        "stomacProtection"
+      ],
+      "requirements": [],
+      "brand": "Daily Life",
+      "image": 13,
+      "cost": 653
+    },
+    {
+      "name": "catFood",
+      "displayName": "Cat food",
+      "brain": -1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 1,
+      "intestine": 1,
+      "description": "Surprisingly not bad.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Daily Life",
+      "image": 14,
+      "cost": 501
+    },
+    {
+      "name": "headBang",
+      "displayName": "Head Bang",
+      "brain": -2,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 2,
+      "intestine": 0,
+      "description": "Good for your back and neck muscle. Badly increases blood pressure in the brain.",
+      "secondaryEffectID": [
+        "musclesPrevention",
+        "blindness"
+      ],
+      "requirements": [],
+      "brand": "Bawer",
+      "image": 15,
+      "cost": 668
+    },
+    {
+      "name": "peregrinTookit",
+      "displayName": "Peregrin TookIt",
+      "brain": -1,
+      "heart": 3,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "You feel as kind and light-hearted as a hobbit. Too bad it's Pippin.",
+      "secondaryEffectID": [
+        "heartProtection"
+      ],
+      "requirements": [],
+      "brand": "Pop Culture",
+      "image": 16,
+      "cost": 820
+    },
+    {
+      "name": "prankHeinstein",
+      "displayName": "Prank Heinstein",
+      "brain": -2,
+      "heart": 2,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "It's funny but not super clever.",
+      "secondaryEffectID": [
+        "heartPrevention"
+      ],
+      "requirements": [],
+      "brand": "Pop Culture",
+      "image": 17,
+      "cost": 790
+    },
+    {
+      "name": "infinitySlap",
+      "displayName": "Infinity Slap",
+      "brain": -1,
+      "heart": -1,
+      "pulmon": 1,
+      "muscles": -1,
+      "intestine": 1,
+      "description": "Half as great as it should.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Pop Culture",
+      "image": 18,
+      "cost": 912
+    },
+    {
+      "name": "lightSpeedHypertension",
+      "displayName": "Light speed Hypertension",
+      "brain": 0,
+      "heart": -2,
+      "pulmon": 0,
+      "muscles": 2,
+      "intestine": 0,
+      "description": "Run boy run, this world is not made for you",
+      "secondaryEffectID": [
+        "musclesPrevention"
+      ],
+      "requirements": [],
+      "brand": "Pharmafya",
+      "image": 19,
+      "cost": 729
+    },
+    {
+      "name": "meditationMedication",
+      "displayName": "Meditation medication",
+      "brain": 0,
+      "heart": 0,
+      "pulmon": 3,
+      "muscles": 0,
+      "intestine": -1,
+      "description": "Breathe in, breathe out. You can't eat meat anymore though.",
+      "secondaryEffectID": [
+        "lungsProtection"
+      ],
+      "requirements": [],
+      "brand": "Bawer",
+      "image": 20,
+      "cost": 760
+    },
+    {
+      "name": "snail",
+      "displayName": "Snail",
+      "brain": 0,
+      "heart": 0,
+      "pulmon": -2,
+      "muscles": 0,
+      "intestine": 2,
+      "description": "Leafs are now extra good for your health. The cost? Mucus.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Bawer",
+      "image": 21,
+      "cost": 729
+    },
+    {
+      "name": "crossFeet",
+      "displayName": "Cross feet",
+      "brain": 0,
+      "heart": 1,
+      "pulmon": 1,
+      "muscles": 2,
+      "intestine": 0,
+      "description": "You will walk on water. Caution, might change it into wine.",
+      "secondaryEffectID": [
+        "musclesPrevention"
+      ],
+      "requirements": [],
+      "brand": "Miracle",
+      "image": 22,
+      "cost": 714
+    },
+    {
+      "name": "bubon",
+      "displayName": "Bubon",
+      "brain": 1,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": -3,
+      "intestine": 2,
+      "description": "Congrats, you now have the bubonic plague. Half of Europe made it through, why not you?",
+      "secondaryEffectID": [
+        "paralysis",
+        "stomacProtection"
+      ],
+      "requirements": [],
+      "brand": "Cheap Pills",
+      "image": 23,
+      "cost": 972
+    },
+    {
+      "name": "centralJogger",
+      "displayName": "Central Jogger",
+      "brain": -1,
+      "heart": 0,
+      "pulmon": 2,
+      "muscles": 1,
+      "intestine": 0,
+      "description": "Some fresh air from a central park morning jog. New, central park drugs now included.",
+      "secondaryEffectID": [
+        "lungsPrevention"
+      ],
+      "requirements": [],
+      "brand": "Bawer",
+      "image": 24,
+      "cost": 729
+    },
+    {
+      "name": "merryPopsIn",
+      "displayName": "Merry Pops In",
+      "brain": 1,
+      "heart": 1,
+      "pulmon": 1,
+      "muscles": 1,
+      "intestine": 1,
+      "description": "Just a spoonfull of sugars makes the medecine goes down.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Pop Culture",
+      "image": 25,
+      "cost": 912
+    },
+    {
+      "name": "athmatix",
+      "displayName": "Athmatix",
+      "brain": 0,
+      "heart": 1,
+      "pulmon": -3,
+      "muscles": 0,
+      "intestine": 0,
+      "description": "You are now better at not breathing.",
+      "secondaryEffectID": [
+        "spitOutBlood"
+      ],
+      "requirements": [],
+      "brand": "Cheap Pills",
+      "image": 26,
+      "cost": 805
+    },
+    {
+      "name": "antanalgesic",
+      "displayName": "Antanalgesic",
+      "brain": -1,
+      "heart": -1,
+      "pulmon": 1,
+      "muscles": 1,
+      "intestine": 1,
+      "description": "Nod bad, not good, just in between. We hope.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "Bawer",
+      "image": 27,
+      "cost": 912
+    },
+    {
+      "name": "thisGame",
+      "displayName": "This Game",
+      "brain": 2,
+      "heart": 0,
+      "pulmon": 0,
+      "muscles": 0,
+      "intestine": 3,
+      "description": "On overall pretty nice, right? Right??",
+      "secondaryEffectID": [
+        "brainPrevention",
+        "stomacProtection"
+      ],
+      "requirements": [],
+      "brand": "Bawer",
+      "image": 28,
+      "cost": 866
+    },
+    {
+      "name": "gandhi",
+      "displayName": "Gandhi",
+      "brain": 1,
+      "heart": 1,
+      "pulmon": 1,
+      "muscles": 0,
+      "intestine": -3,
+      "description": "The curry nukes your intestine, but peacefully.",
+      "secondaryEffectID": [
+        "disgorgement"
+      ],
+      "requirements": [],
+      "brand": "Cheap Pills",
+      "image": 29,
+      "cost": 1094
+    },
+    {
+      "name": "whiteWitch",
+      "displayName": "White Witch",
+      "brain": -1,
+      "heart": -2,
+      "pulmon": -3,
+      "muscles": 0,
+      "intestine": 1,
+      "description": "Have you tried breathing snow?",
+      "secondaryEffectID": [
+        "spitOutBlood"
+      ],
+      "requirements": [],
+      "brand": "Pharmafya",
+      "image": 30,
+      "cost": 1368
+    },
+    {
+      "name": "marathon",
+      "displayName": "Marathon",
+      "brain": 0,
+      "heart": 1,
+      "pulmon": 1,
+      "muscles": 2,
+      "intestine": -2,
+      "description": "Three, two, one, run. Now. Toilets are on the left.",
+      "secondaryEffectID": [
+        "musclesPrevention"
+      ],
+      "requirements": [],
+      "brand": "Bawer",
+      "image": 31,
+      "cost": 1048
+    },
+    {
+      "name": "harryPothead",
+      "displayName": "Harry Pothead",
+      "brain": -3,
+      "heart": 2,
+      "pulmon": 0,
+      "muscles": 1,
+      "intestine": 0,
+      "description": "Strengthen most of your muscle and heart. Drastically decreases synaptic activity.",
+      "secondaryEffectID": [
+        "misunderstanding",
+        "heartPrevention"
+      ],
+      "requirements": [],
+      "brand": "Pop Culture",
+      "image": 32,
+      "cost": 1124
+    },
+    {
+      "name": "sleepingBeauty",
+      "displayName": "Sleeping Beauty",
+      "brain": 2,
+      "heart": 1,
+      "pulmon": 1,
+      "muscles": 1,
+      "intestine": -1,
+      "description": "A good 24h nap. Might want to visit the toilet afterward.",
+      "secondaryEffectID": [
+        "brainPrevention"
+      ],
+      "requirements": [],
+      "brand": "Sanitad",
+      "image": 33,
+      "cost": 1094
+    },
+    {
+      "name": "painAndArsenic",
+      "displayName": "Pain and Arsenic",
+      "brain": 2,
+      "heart": 2,
+      "pulmon": -1,
+      "muscles": -1,
+      "intestine": -1,
+      "description": "Weird placebo effect with unknown origin. Come on, we are no scientist! Oh wait.",
+      "secondaryEffectID": [
+        "brainPrevention",
+        "heartPrevention"
+      ],
+      "requirements": [],
+      "brand": "Pharmafya",
+      "image": 34,
+      "cost": 1307
+    },
+    {
+      "name": "yourX",
+      "displayName": "Your X",
+      "brain": 2,
+      "heart": 1,
+      "pulmon": 0,
+      "muscles": -1,
+      "intestine": -1,
+      "description": "The same effect as learning you've been cheated on. Now with improved relief due to the termination of a shitty relationship.",
+      "secondaryEffectID": [
+        "brainPrevention"
+      ],
+      "requirements": [],
+      "brand": "Bawer",
+      "image": 35,
+      "cost": 896
+    },
+    {
+      "name": "vondrekenov",
+      "displayName": "Vondrekenov",
+      "brain": 2,
+      "heart": -2,
+      "pulmon": 1,
+      "muscles": -2,
+      "intestine": 1,
+      "description": "Makes your blood pressure not great, and your are weak. But, because you love chicori and ham, you will be quite fine.",
+      "secondaryEffectID": [
+        "brainPrevention"
+      ],
+      "requirements": [],
+      "brand": "Pharmafya",
+      "image": 36,
+      "cost": 1459
+    },
+    {
+      "name": "darthFather",
+      "displayName": "Darth Father",
+      "brain": 0,
+      "heart": 2,
+      "pulmon": -1,
+      "muscles": -3,
+      "intestine": -2,
+      "description": "No breath, no limp, no stomack. But, in the end, your heart is nice and you will be forgiven.",
+      "secondaryEffectID": [
+        "heartPrevention",
+        "paralysis"
+      ],
+      "requirements": [],
+      "brand": "Pop Culture",
+      "image": 37,
+      "cost": 1413
+    },
+    {
+      "name": "rotten4",
+      "displayName": "Rotten 4",
+      "brain": -1,
+      "heart": -1,
+      "pulmon": -2,
+      "muscles": 3,
+      "intestine": -1,
+      "description": "It's not good but it works.",
+      "secondaryEffectID": [
+        "heartProtection"
+      ],
+      "requirements": [],
+      "brand": "Bawer",
+      "image": 38,
+      "cost": 1413
+    },
+    {
+      "name": "quaranteDeux",
+      "displayName": "Quarante Deux",
+      "brain": 3,
+      "heart": 3,
+      "pulmon": 3,
+      "muscles": 3,
+      "intestine": 3,
+      "description": "The answer to many things, but in a language unknown to intelligent life forms.",
+      "secondaryEffectID": [
+        "heartProtection",
+        "lungsProtection",
+        "brainProtection",
+        "stomacProtection",
+        "musclesProtection"
+      ],
+      "requirements": [],
+      "brand": "Sanitad",
+      "image": 39,
+      "cost": 2736
+    },
+    {
+      "name": "antivanal",
+      "displayName": "Antivanal",
+      "brain": -5,
+      "heart": -5,
+      "pulmon": -5,
+      "muscles": -5,
+      "intestine": -5,
+      "description": "Instant death, but at least you are not vaccinated.",
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": "WJS",
+      "image": 40,
+      "cost": 4560
+    },
+    {
+      "name": null,
+      "displayName": null,
+      "brain": 3,
+      "heart": 5,
+      "pulmon": 0,
+      "muscles": 4,
+      "intestine": 2,
+      "description": null,
+      "secondaryEffectID": [],
+      "requirements": [],
+      "brand": null,
+      "image": null,
+      "cost": null
+    }
+  ]
+}

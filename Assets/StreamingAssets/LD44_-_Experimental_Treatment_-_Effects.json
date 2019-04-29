@@ -1,0 +1,244 @@
+{
+  "Effects": [
+    {
+      "name": "heartAttack",
+      "displayName": "Heart Attack",
+      "description": "Unless you get a transplant very quickly, you are going to die.",
+      "duration": 1,
+      "permanent": false,
+      "stateName": "critical",
+      "baseValue": 0,
+      "type": "heart"
+    },
+    {
+      "name": "entérovirusD-68",
+      "displayName": "Entérovirus D-68",
+      "description": "You will die in the next week.",
+      "duration": 1,
+      "permanent": false,
+      "stateName": "critical",
+      "baseValue": 0,
+      "type": "lungs"
+    },
+    {
+      "name": "ulcer",
+      "displayName": "Ulcer",
+      "description": "You are in a pretty bad shape right now.",
+      "duration": 1,
+      "permanent": false,
+      "stateName": "critical",
+      "baseValue": 0,
+      "type": "stomac"
+    },
+    {
+      "name": "stroke",
+      "displayName": "Stroke",
+      "description": "Things are getting critical.",
+      "duration": 1,
+      "permanent": false,
+      "stateName": "critical",
+      "baseValue": 0,
+      "type": "brain"
+    },
+    {
+      "name": "necrosis",
+      "displayName": "Necrosis",
+      "description": "Your limbs are necrosed.",
+      "duration": 1,
+      "permanent": false,
+      "stateName": "critical",
+      "baseValue": 0,
+      "type": "muscles"
+    },
+    {
+      "name": "severeHallucination",
+      "displayName": "Severe Hallucination",
+      "description": "You are seeing things.",
+      "duration": 5,
+      "permanent": false,
+      "stateName": "malus",
+      "baseValue": -1,
+      "type": "brain"
+    },
+    {
+      "name": "paralysis",
+      "displayName": "Paralysis",
+      "description": "You cannot reach all the pills.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "malus",
+      "baseValue": -3,
+      "type": "muscles"
+    },
+    {
+      "name": "blindness",
+      "displayName": "Blindness",
+      "description": "You can't see the pills info anymore.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "malus",
+      "baseValue": -1,
+      "type": "brain"
+    },
+    {
+      "name": "misunderstanding",
+      "displayName": "Misunderstanding ",
+      "description": "You can no longer understand what is happening to you.",
+      "duration": 3,
+      "permanent": false,
+      "stateName": "malus",
+      "baseValue": -1,
+      "type": "brain"
+    },
+    {
+      "name": "heartPrevention",
+      "displayName": "Heart Prevention",
+      "description": "Prevents one effect on the heart.",
+      "duration": 0,
+      "permanent": true,
+      "stateName": "bonus",
+      "baseValue": 3,
+      "type": "heart"
+    },
+    {
+      "name": "heartProtection",
+      "displayName": "Heart Protection",
+      "description": "Your Heart is safe for a limited time.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "bonus",
+      "baseValue": 2,
+      "type": "heart"
+    },
+    {
+      "name": "lungsPrevention",
+      "displayName": "Lungs Prevention",
+      "description": "Prevent one effect on the lungs.",
+      "duration": 0,
+      "permanent": true,
+      "stateName": "bonus",
+      "baseValue": 3,
+      "type": "lungs"
+    },
+    {
+      "name": "lungsProtection",
+      "displayName": "Lungs Protection",
+      "description": "Your Lungs are safe for a limited time.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "bonus",
+      "baseValue": 2,
+      "type": "lungs"
+    },
+    {
+      "name": "brainPrevention",
+      "displayName": "Brain Prevention",
+      "description": "Prevent one effect on the brain.",
+      "duration": 0,
+      "permanent": true,
+      "stateName": "bonus",
+      "baseValue": 3,
+      "type": "brain"
+    },
+    {
+      "name": "brainProtection",
+      "displayName": "Brain Protection",
+      "description": "Your Brain is safe for a limited time.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "bonus",
+      "baseValue": 2,
+      "type": "brain"
+    },
+    {
+      "name": "stomacPrevention",
+      "displayName": "Stomac Prevention",
+      "description": "Prevent one effect on the stomach.",
+      "duration": 0,
+      "permanent": true,
+      "stateName": "bonus",
+      "baseValue": 3,
+      "type": "stomac"
+    },
+    {
+      "name": "stomacProtection",
+      "displayName": "Stomac Protection",
+      "description": "Your Stomach is safe for a limited time.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "bonus",
+      "baseValue": 2,
+      "type": "stomac"
+    },
+    {
+      "name": "musclesPrevention",
+      "displayName": "Muscles Prevention",
+      "description": "Prevent one effect on the muscles.",
+      "duration": 0,
+      "permanent": true,
+      "stateName": "bonus",
+      "baseValue": 3,
+      "type": "muscles"
+    },
+    {
+      "name": "musclesProtection",
+      "displayName": "Muscles Protection",
+      "description": "Your Muscles are safe for a limited time.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "bonus",
+      "baseValue": 2,
+      "type": "muscles"
+    },
+    {
+      "name": "brainDefficiency",
+      "displayName": "Brain Defficiency",
+      "description": "Your brain can't heal for a while.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "malus",
+      "baseValue": -2,
+      "type": "brain"
+    },
+    {
+      "name": "muscleDefficiency",
+      "displayName": "Muscle Defficiency",
+      "description": "Your muscles can't heal for a while.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "malus",
+      "baseValue": -2,
+      "type": "muscles"
+    },
+    {
+      "name": "heartDefficiency",
+      "displayName": "Heart Defficiency",
+      "description": "Your heart can't heal for a while.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "malus",
+      "baseValue": -2,
+      "type": "heart"
+    },
+    {
+      "name": "stomacDefficiency",
+      "displayName": "Stomac Defficiency",
+      "description": "Your stomac can't heal for a while.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "malus",
+      "baseValue": -2,
+      "type": "stomac"
+    },
+    {
+      "name": "lungsDefficiency",
+      "displayName": "Lungs Defficiency",
+      "description": "Your lungs can't heal for a while.",
+      "duration": 2,
+      "permanent": false,
+      "stateName": "malus",
+      "baseValue": -2,
+      "type": "lungs"
+    }
+  ]
+}
